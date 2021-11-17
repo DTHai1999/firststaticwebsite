@@ -1,0 +1,122 @@
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\itextsharp.dll
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\bin\Debug\System.Data.Linq.dll
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_BanHangReport.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Contact.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_NhapHang.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Approve.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_BanHang.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.frm_DangKy.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_DangNhap.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_KhachHang.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Main.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_NCC.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_NhapHangReport.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_SanPham.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.Fm_UserManage.resources
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\WindowsFormsApplication1.exe
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\WindowsFormsApplication1.pdb
+F:\QLBH\QLBH\QLBH\Test\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\itextsharp.dll
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\System.Data.Linq.dll
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_BanHangReport.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Contact.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_NhapHang.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Approve.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_BanHang.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.frm_DangKy.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_KhachHang.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Main.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_NCC.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_NhapHangReport.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_SanPham.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\WindowsFormsApplication1.exe
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\WindowsFormsApplication1.pdb
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_DangNhap.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDoiMatKhau.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_QuanliUser.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_QuayThuong.resources
+F:\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\itextsharp.dll
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\System.Data.Linq.dll
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.frmDoiMatKhau.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_BanHangReport.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Contact.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_NhapHang.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Approve.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_BanHang.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.frm_DangKy.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_DangNhap.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_KhachHang.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Main.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_NCC.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_NhapHangReport.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_SanPham.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_QuanliUser.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_QuayThuong.resources
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\WindowsFormsApplication1.exe
+C:\Temp\2222\Đồ Án CNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\WindowsFormsApplication1.pdb
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe.config
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.exe
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\WindowsFormsApplication1.pdb
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\itextsharp.dll
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\bin\Debug\System.Data.Linq.dll
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.ResolveComReference.cache
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_DoiMatKhau.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_BanHangReport.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Contact.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_NhapHang.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_ApproveUser.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_BanHang.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_CapnhatKH.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.frm_DangKy.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_DangNhap.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_KhachHang.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_LoaiSP.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Main.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_Company.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_NhapHangReport.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_SanPham.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_ThanhToanDiem.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Properties.Resources.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_QuanliUser.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.Frm_QuayThuong.resources
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.GenerateResource.cache
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\WindowsFormsApplication1.exe
+F:\DoAnHK2_2019\DoAnCNPM\Quan Ly Cua Hang Ban Balo\QuanLyBanHang\obj\Debug\WindowsFormsApplication1.pdb
